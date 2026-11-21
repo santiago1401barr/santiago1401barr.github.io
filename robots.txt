@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santiago1401barr.github.io/sitemap.xml
